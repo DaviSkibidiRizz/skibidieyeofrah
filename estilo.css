@@ -1,6 +1,26 @@
 body {
 
-    color: rgb(178, 66, 66);
-    font-style: oblique;
-    font-weight: bold;
+    color: rgb(170, 242, 247);
 }
+    
+@font-face {
+    font-family: "Lemon/Milk";
+    src: url("https://db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.woff")
+}
+
+div {
+    font-family: "Lemon/Milk""
+  }
+
+body {
+    background-image: linear-gradient(to top, rgb(34, 31, 28), rgb(54, 45, 32));
+  }
+
+  figure.foto-legenda { 
+    border: 2px solid rgb(0, 0, 0);
+    }
+
+    body{
+    font: normal  24px/1 "Lemon/Milk";
+    text-shadow: rgb(29, 11, 37) 2px 5px;
+    }
